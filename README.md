@@ -16,7 +16,7 @@ Klox is an interpreter for a subset of the Lox programming language, developed i
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/klox.git
+    git clone https://github.com/ItayArgov/klox.git
     cd klox
     ```
 
